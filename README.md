@@ -1,6 +1,6 @@
 # Machine-Translation-Attention-Model-Based
 Machine translation to convert human readable dates to machine readable dates. (MT) refers to fully automated software that can translate source content into target content of different type. Neural Machine Translation is method which utilizes neural networks to achieve this task.
-## Inspired from the final week assignment in Angrew Ng's Deep Learning Specialization Course.
+## [Inspired from the final week assignment in Angrew Ng's Deep Learning Specialization Course.](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_content=17-DeepLearning-IN&campaignid=6495527979&adgroupid=83587803808&device=c&keyword=coursera%20artificial%20intelligence&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=381789992343&hide_mobile_promo&gclid=CjwKCAjw5vz2BRAtEiwAbcVILwMTarAcU_9ndijtGFe7yZbUbNAfdOCmISxX-0W_VxCxlz70AAljixoCWI8QAvD_BwE)
 
 A Simple Way but tough Approach:
 ![example](https://user-images.githubusercontent.com/29397302/84143243-d9c8d500-aa73-11ea-81f7-f0f7b12224eb.png)
