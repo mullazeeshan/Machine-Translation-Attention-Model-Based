@@ -21,4 +21,4 @@ Below is the loss during trainig process.
 ![trianing_loss](https://user-images.githubusercontent.com/29397302/84143691-a0dd3000-aa74-11ea-9115-3c15cf05c247.png)
 
 ## Licence
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mullazeeshan/Machine-Translation-Attention-Model-Based/blob/master/LICENSE) file for details
